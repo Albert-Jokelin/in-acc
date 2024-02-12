@@ -18,6 +18,7 @@ Here's a list of manufacturers:
 # Tech
 
 Here are links to learn how to work on:
+1. Developer resources: https://github.com/suhasasumukh/developer-resource
 
 
 
