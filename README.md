@@ -1,5 +1,7 @@
 This is a repository that contains all the knowledge needed to build and sell in India.
 
+Contributions are welcome.
+
 Contents:
 1. Data and Statistics
 2. Manufacturing
